@@ -15,7 +15,7 @@
 </div>
 
 <h1 align="center">Hola, I'm Rion</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 
 
